@@ -1,0 +1,19 @@
+root { 
+    display: block;
+}
+.centered {
+	text-align: center;
+}
+.sansSerif{
+    font-family: sans-serif;
+    color: red;
+    border-color:black;
+    border-style:solid;
+}
+
+
+
+
+
+
+
